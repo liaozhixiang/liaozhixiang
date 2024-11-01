@@ -1,4 +1,4 @@
-- 
+- Hi~
 - A postgraduate student from China, majoring in automation engineering
 - Research field include flight control of unmanned aerial viechle, formation of multi-agents, BLDC foc control etc.
 <!---
